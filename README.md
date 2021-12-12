@@ -39,12 +39,12 @@ simpler with an easy-to-use API that works across a multitude of browsers. With 
 Name- Narottam Aswal SYMCA(M) Roll No-3
 combination of versatility and extensibility, jQuery has changed the way that millions
 of people write JavaScript.
-Advantages of this system:
+### Advantages of this system:
 1) Reduce manual work.
 2) More efficient than the current system.
 3) Reduce the risk of fraud.
 4) Easy storage and maintenance of the documents
-Features:
+### Features:
 1) Authentication and Authorization- User cannot perform any action befor
 authentication.
 2) User and doctor dashboard.
