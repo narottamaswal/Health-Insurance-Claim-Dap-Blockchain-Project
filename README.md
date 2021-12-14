@@ -1,4 +1,4 @@
-# Health Insurance Claim App with Solidity,Ethereum and Web3
+# Health Insurance Claim DAP (Decentralized App)
 ### Technologies: Solidity Smart Contract, Web3, Ethereum, Ganache, Meta mask, Jquery
 ## Introduction to Health Insurance
 This project is about creating a Health Insurance Claim application. The project is aimed to digitize traditional health insurance claims and reduce fraud with the help of technology. This application will not only reduce the manual work of the business but also will increase their efficiency and reduce the risk.
